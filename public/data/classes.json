@@ -1,0 +1,10 @@
+[
+  {
+    "id": 1,
+    "name": "Maths",
+    "description": "This the maths class",
+    "children": [
+      1
+    ]
+  }
+]
